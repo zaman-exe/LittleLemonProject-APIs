@@ -12,9 +12,9 @@
 - Real-time order delivery tracking for delivery crews.
 
 **Technologies Used:**
-- Programming Language: [Specify the language]
-- Framework: [Specify the web framework]
-- Database: [Specify the database system]
+- Programming Language: Python
+- Framework: Django
+- Database: SQLlite
 
 **Usage:** Developers can use this API to build customer-facing web and mobile applications for the Little Lemon restaurant.
 
